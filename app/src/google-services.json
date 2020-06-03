@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "377859045227",
+    "firebase_url": "https://njvidhyalay-3fab4.firebaseio.com",
+    "project_id": "njvidhyalay-3fab4",
+    "storage_bucket": "njvidhyalay-3fab4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377859045227:android:e19c0e83a70845f627be2e",
+        "android_client_info": {
+          "package_name": "com.njvidhyalay.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377859045227-jq3p1bp5ag0m7k6j1gsin2ijslkufaku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnkZPEaNRVdL2IqE-aSi-xWwflsBRJ4gA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377859045227-jq3p1bp5ag0m7k6j1gsin2ijslkufaku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

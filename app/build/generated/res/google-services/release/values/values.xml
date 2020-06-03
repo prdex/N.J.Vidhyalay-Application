@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">377859045227-jq3p1bp5ag0m7k6j1gsin2ijslkufaku.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://njvidhyalay-3fab4.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">377859045227</string>
+    <string name="google_api_key" translatable="false">AIzaSyBnkZPEaNRVdL2IqE-aSi-xWwflsBRJ4gA</string>
+    <string name="google_app_id" translatable="false">1:377859045227:android:e19c0e83a70845f627be2e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBnkZPEaNRVdL2IqE-aSi-xWwflsBRJ4gA</string>
+    <string name="google_storage_bucket" translatable="false">njvidhyalay-3fab4.appspot.com</string>
+    <string name="project_id" translatable="false">njvidhyalay-3fab4</string>
+</resources>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name" translatable="false">ResultApplication</string>
+    <string name="image_name">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="standard">ધોરણ</string>
+    <string name="rollno">રોલ નં</string>
+    <string name="login">પ્રવેશ કરો</string>
+    <string name="choose">choose</string>
+    <string name="upload">Upload</string>
+    <string name="logout">Logout</string>
+    <string name="homework">લેશન</string>
+    <string name="testmarks">ટેસ્ટ માર્ક</string>
+    <string name="videolecture">વિડીયો લેકચર</string>
+    <string name="material">મટીરિયલ</string>
+    <string name="textbook">પાઠ્યપુસ્તક</string>
+    <string name="attendence">હાજરી</string>
+    <string name="dateofbirht">જન્મ તારીખ</string>
+    <string name="ourdescription">બાલમંદિર, ધો. ૧ થી ૧૨ (આર્ટસ/કોમર્સ) શાળા
+૬૮, કલ્યાણનગર, બાલયોગીનગર પાછળ,
+ઘોઘારોડ, ભાવનગર-૩૬૪૦૦૧
+મો. ૯૯૦૪૫૬૧૮૪૨</string>
+</resources>

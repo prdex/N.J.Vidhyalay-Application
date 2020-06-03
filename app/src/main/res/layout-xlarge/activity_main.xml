@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/backgorund1"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <!--    <EditText-->
+<!--        android:id="@+id/std"-->
+<!--        android:layout_width="@dimen/_230sdp"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_gravity="center"-->
+<!--        android:background="@drawable/corners"-->
+<!--        android:drawableLeft="@drawable/ic_person_black_24dp"-->
+<!--        android:drawablePadding="10dp"-->
+<!--        android:hint="ધોરણ"-->
+<!--        android:textSize="@dimen/font_size_medium"-->
+<!--        android:inputType="text"-->
+<!--        android:padding="@dimen/_15sdp"-->
+<!--        android:textColorHint="#2CA7E0"-->
+<!--        app:layout_constraintTop_toBottomOf="@+id/LogoID"-->
+<!--        app:layout_constraintBottom_toTopOf="@+id/rollno"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintHorizontal_bias="0.5"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintVertical_bias="0.9" />-->
+
+
+    <ImageView
+        android:id="@+id/LogoID"
+        android:layout_width="@dimen/_120sdp"
+        android:layout_height="@dimen/_120sdp"
+        android:layout_gravity="center"
+        android:src="@drawable/logos"
+        android:contentDescription="@string/image_name"
+        app:layout_constraintBottom_toTopOf="@+id/ourinfo"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.027" />
+
+    <Spinner
+        android:id="@+id/std"
+        android:layout_width="@dimen/_230sdp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/corners"
+        android:drawablePadding="10dp"
+        android:textColorHint="#2CA7E0"
+        app:layout_constraintBottom_toTopOf="@+id/rollno"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ourinfo"
+        app:layout_constraintVertical_bias="0.9" />
+
+
+    <EditText
+        android:id="@+id/rollno"
+        android:layout_width="@dimen/_230sdp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/corners"
+        android:drawableLeft="@drawable/ic_person_black_24dp"
+        android:drawablePadding="10dp"
+        android:hint="@string/rollno"
+        android:textSize="@dimen/font_size_medium"
+        android:inputType="number"
+        android:padding="@dimen/_15sdp"
+        android:textColorHint="#2CA7E0"
+        app:layout_constraintTop_toBottomOf="@+id/std"
+        app:layout_constraintBottom_toTopOf="@+id/login"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        android:drawableStart="@drawable/ic_person_black_24dp" />
+
+    <Button
+        android:id="@+id/login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/button"
+        android:text="@string/login"
+        android:textSize="@dimen/font_size_medium"
+        android:textColor="#fff"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/rollno" />
+
+    <TextView
+        android:id="@+id/ourinfo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:lines="4"
+        android:maxLines="4"
+        android:textSize="@dimen/_15ssp"
+        android:text="@string/ourdescription"
+        app:layout_constraintBottom_toTopOf="@+id/std"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/LogoID" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
