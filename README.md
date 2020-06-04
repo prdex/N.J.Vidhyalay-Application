@@ -15,12 +15,6 @@ Internet is a beautiful place, there is just ton of information out there ready 
 
 ## Development setup
 
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
-
-```sh
-make install
-npm test
-```
 
 ## Release History
 
