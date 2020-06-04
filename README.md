@@ -7,11 +7,12 @@ This application will give a personalized experience to students.
 
 ## Usage example
 
-I belive each school is unique in it's own way, and each one has it's own needs, there is a lot we can do here
-Many schools are starting to adapt new technologies in a wonderful manner.
-With apps like this not only student can keep a trak between homework
-and it's not just for students the parents can track their son/daughter's exam records from that techers, students,and parents can know the strong and wea points of student.
-Internet is a beautiful place, there is just ton of information out there ready for you to grab, with apps like this students will be guided by teachers and management to support their studies and make it more intresting.
+I believe each school is unique in it's own way, and each one has it's own needs.
+I have started with some of the basic feature like Homework Submission, Test Records, Attendence Record, Downlaod and View Textbook , and Download and View Material.
+There will be a digital copy of their homework book - How cool is that.
+With Adding more analytics to their test records parents, teachers and himself can know the strong and weak points in his studies.
+Internet is a beautiful place, there is just ton of information out there ready for you to grab, with the help of teachers and management useful and intresting stuff won't make their study a load. Grow and find your passion is what matters.
+Now the idea is to make another app for teachers where they can add marks, check homework, and add daily attendence.
 
 ## Development setup
 
