@@ -47,7 +47,7 @@ npm test
 
 ## Meta
 
-Pratik Bambhania – [@YourTwitter](https://twitter.com/dbader_org) – bambhania.pratik9090@gmail.com
+Pratik Bambhania – [@_patrickism](https://twitter.com/@_patrickism) – bambhania.pratik9090@gmail.com
 Distributed under the XYZ license. See ``LICENSE`` for more information.
 
 [https://github.com/yourname/github-link](https://github.com/dbader/)
@@ -60,7 +60,7 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 
 ## Contributing
 
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
+1. Fork it (<https://github.com/prdex/N.J.Vidhyalay-Application/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
