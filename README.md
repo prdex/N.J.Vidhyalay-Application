@@ -36,10 +36,9 @@ npm test
     * ADD: Image Size Reduction when uploading Assignment
     * ADD: Assginment Section has now subject-wise classification
 * 1.5
-    * 
-    * CHANGE: 
+    * FIX: Minor Bugs
 * 1.6
-    * 
+    * FIX: Minor Bugs
 * 1.7
     * FIX: DOB and Roll No Validation
 * 1.8
@@ -50,7 +49,7 @@ npm test
 Pratik Bambhania – [@_patrickism](https://twitter.com/@_patrickism) – bambhania.pratik9090@gmail.com
 Distributed under the XYZ license. See ``LICENSE`` for more information.
 
-[https://github.com/yourname/github-link](https://github.com/dbader/)
+[https://github.com/prdex/](https://github.com/dbader/)
 
 ## TO-DO
 1. Clean Code
