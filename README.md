@@ -1,13 +1,3 @@
-
-
-TO-DO List
-
-Clean Code
-Improve UI
-Add a Notice board
-Add Leaderboad 
-
-
 # N.J.Vidhyalay-Application
 > An android application for school N.J.Vidhyalay
 
@@ -61,6 +51,12 @@ Pratik Bambhania – [@YourTwitter](https://twitter.com/dbader_org) – bambhani
 Distributed under the XYZ license. See ``LICENSE`` for more information.
 
 [https://github.com/yourname/github-link](https://github.com/dbader/)
+
+## TO-DO
+1. Clean Code
+2. Improve UI
+3. Add a Notice board
+4. Add Leaderboad 
 
 ## Contributing
 
