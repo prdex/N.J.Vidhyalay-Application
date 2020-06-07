@@ -7,7 +7,7 @@ INJECTED from E:\AndroidProjects\N.J.VidhyalayApp\app\src\main\AndroidManifest.x
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\07bb428a3bc0b4a9001f63b2427e0b70\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
 MERGED from [eu.dkaratzas:android-inapp-update:1.0.5] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\e51dbb081f9f1a158449918d969cc775\jetified-android-inapp-update-1.0.5\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.material:material:1.2.0-alpha06] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\43bb7b14595f2480394aee9157bed3b2\material-1.2.0-alpha06\AndroidManifest.xml:17:1-24:12
-MERGED from [gun0912.ted:tedpermission:2.2.2] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\ba4aef12fe9ea06d1d2d91b1b0011a6f\jetified-tedpermission-2.2.2\AndroidManifest.xml:2:1-17:12
+MERGED from [gun0912.ted:tedpermission:2.2.2] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\90c341321224fcabf0a67a48cd5bb7e5\jetified-tedpermission-2.2.2\AndroidManifest.xml:2:1-17:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\9ce5b4ccf3250adeb133bc7ea5cbd72f\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\c2f1feb33818412339f951bb46195709\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.intuit.sdp:sdp-android:1.0.6] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\93c25c5ca07e0d692b0266784a9bc34c\jetified-sdp-android-1.0.6\AndroidManifest.xml:2:1-11:12
@@ -17,12 +17,12 @@ MERGED from [com.google.firebase:firebase-database:19.3.0] C:\Users\PRATIK\.grad
 MERGED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\36af530cf3e896d6442a5e45ff9fc300\jetified-firebase-auth-19.3.1\AndroidManifest.xml:17:1-42:12
 MERGED from [com.google.firebase:firebase-messaging:20.1.7] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\3ed7ca99014c59728e0b6723dbf0ef19\jetified-firebase-messaging-20.1.7\AndroidManifest.xml:17:1-44:12
 MERGED from [com.google.android.play:core:1.7.2] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\c486db67946c1e8c374851bc03aff293\jetified-core-1.7.2\AndroidManifest.xml:2:1-19:12
-MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\fade20304c44169911d313450515cf6e\jetified-android-pdf-viewer-2.8.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\6f93fa487a0b5337730ae9700e87b1fb\jetified-android-pdf-viewer-2.8.2\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.firebase:firebase-firestore:21.4.3] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\70dda07c032bb143a1954c8fa465c9b6\jetified-firebase-firestore-21.4.3\AndroidManifest.xml:2:1-26:12
 MERGED from [com.google.firebase:firebase-storage:19.1.1] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\67977f1a3465d3b7b4430dd5a4ec519e\jetified-firebase-storage-19.1.1\AndroidManifest.xml:15:1-39:12
-MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\8983abf7c601b33c85e367ecd11fe64f\jetified-circleimageview-2.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\2fe33008620a6e894f0b9ffda78ce330\jetified-circleimageview-2.1.0\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\6fdaa9e2af48aa5814537e7ccae9fb5b\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.github.barteksc:pdfium-android:1.7.1] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\32788f97db444d243ceeac6c162864ec\jetified-pdfium-android-1.7.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.barteksc:pdfium-android:1.7.1] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\95ce46dd0ad8966ed0bf1d7299888e34\jetified-pdfium-android-1.7.1\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\0e33a3fee264141d46e02a505ad96f2e\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\5ba95251485b89dd038b9e33bec1bd67\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\45b53bfe241e8f250794f0ddb6cbc067\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
@@ -127,8 +127,8 @@ MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\PRATIK\.
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\07bb428a3bc0b4a9001f63b2427e0b70\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [com.google.android.material:material:1.2.0-alpha06] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\43bb7b14595f2480394aee9157bed3b2\material-1.2.0-alpha06\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.2.0-alpha06] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\43bb7b14595f2480394aee9157bed3b2\material-1.2.0-alpha06\AndroidManifest.xml:22:5-20
-MERGED from [gun0912.ted:tedpermission:2.2.2] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\ba4aef12fe9ea06d1d2d91b1b0011a6f\jetified-tedpermission-2.2.2\AndroidManifest.xml:9:5-15:19
-MERGED from [gun0912.ted:tedpermission:2.2.2] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\ba4aef12fe9ea06d1d2d91b1b0011a6f\jetified-tedpermission-2.2.2\AndroidManifest.xml:9:5-15:19
+MERGED from [gun0912.ted:tedpermission:2.2.2] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\90c341321224fcabf0a67a48cd5bb7e5\jetified-tedpermission-2.2.2\AndroidManifest.xml:9:5-15:19
+MERGED from [gun0912.ted:tedpermission:2.2.2] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\90c341321224fcabf0a67a48cd5bb7e5\jetified-tedpermission-2.2.2\AndroidManifest.xml:9:5-15:19
 MERGED from [com.google.firebase:firebase-database:19.3.0] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\03d150163d2a9623fc439374a9a7c75a\jetified-firebase-database-19.3.0\AndroidManifest.xml:28:5-36:19
 MERGED from [com.google.firebase:firebase-database:19.3.0] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\03d150163d2a9623fc439374a9a7c75a\jetified-firebase-database-19.3.0\AndroidManifest.xml:28:5-36:19
 MERGED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\36af530cf3e896d6442a5e45ff9fc300\jetified-firebase-auth-19.3.1\AndroidManifest.xml:23:5-40:19
@@ -141,8 +141,8 @@ MERGED from [com.google.firebase:firebase-firestore:21.4.3] C:\Users\PRATIK\.gra
 MERGED from [com.google.firebase:firebase-firestore:21.4.3] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\70dda07c032bb143a1954c8fa465c9b6\jetified-firebase-firestore-21.4.3\AndroidManifest.xml:16:5-24:19
 MERGED from [com.google.firebase:firebase-storage:19.1.1] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\67977f1a3465d3b7b4430dd5a4ec519e\jetified-firebase-storage-19.1.1\AndroidManifest.xml:29:5-37:19
 MERGED from [com.google.firebase:firebase-storage:19.1.1] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\67977f1a3465d3b7b4430dd5a4ec519e\jetified-firebase-storage-19.1.1\AndroidManifest.xml:29:5-37:19
-MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\8983abf7c601b33c85e367ecd11fe64f\jetified-circleimageview-2.1.0\AndroidManifest.xml:9:5-20
-MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\8983abf7c601b33c85e367ecd11fe64f\jetified-circleimageview-2.1.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\2fe33008620a6e894f0b9ffda78ce330\jetified-circleimageview-2.1.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\2fe33008620a6e894f0b9ffda78ce330\jetified-circleimageview-2.1.0\AndroidManifest.xml:9:5-20
 MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\2f7b6533d86db92d08aff71c5535f3af\jetified-firebase-auth-interop-19.0.0\AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\2f7b6533d86db92d08aff71c5535f3af\jetified-firebase-auth-interop-19.0.0\AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\9a334e3414bb280f6cffad2803badae8\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:24:5-32:19
@@ -269,8 +269,8 @@ MERGED from [eu.dkaratzas:android-inapp-update:1.0.5] C:\Users\PRATIK\.gradle\ca
 MERGED from [eu.dkaratzas:android-inapp-update:1.0.5] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\e51dbb081f9f1a158449918d969cc775\jetified-android-inapp-update-1.0.5\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.android.material:material:1.2.0-alpha06] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\43bb7b14595f2480394aee9157bed3b2\material-1.2.0-alpha06\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.2.0-alpha06] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\43bb7b14595f2480394aee9157bed3b2\material-1.2.0-alpha06\AndroidManifest.xml:20:5-44
-MERGED from [gun0912.ted:tedpermission:2.2.2] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\ba4aef12fe9ea06d1d2d91b1b0011a6f\jetified-tedpermission-2.2.2\AndroidManifest.xml:5:5-7:41
-MERGED from [gun0912.ted:tedpermission:2.2.2] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\ba4aef12fe9ea06d1d2d91b1b0011a6f\jetified-tedpermission-2.2.2\AndroidManifest.xml:5:5-7:41
+MERGED from [gun0912.ted:tedpermission:2.2.2] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\90c341321224fcabf0a67a48cd5bb7e5\jetified-tedpermission-2.2.2\AndroidManifest.xml:5:5-7:41
+MERGED from [gun0912.ted:tedpermission:2.2.2] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\90c341321224fcabf0a67a48cd5bb7e5\jetified-tedpermission-2.2.2\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\9ce5b4ccf3250adeb133bc7ea5cbd72f\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\9ce5b4ccf3250adeb133bc7ea5cbd72f\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\c2f1feb33818412339f951bb46195709\cardview-1.0.0\AndroidManifest.xml:20:5-44
@@ -289,18 +289,18 @@ MERGED from [com.google.firebase:firebase-messaging:20.1.7] C:\Users\PRATIK\.gra
 MERGED from [com.google.firebase:firebase-messaging:20.1.7] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\3ed7ca99014c59728e0b6723dbf0ef19\jetified-firebase-messaging-20.1.7\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.play:core:1.7.2] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\c486db67946c1e8c374851bc03aff293\jetified-core-1.7.2\AndroidManifest.xml:4:3-70
 MERGED from [com.google.android.play:core:1.7.2] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\c486db67946c1e8c374851bc03aff293\jetified-core-1.7.2\AndroidManifest.xml:4:3-70
-MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\fade20304c44169911d313450515cf6e\jetified-android-pdf-viewer-2.8.2\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\fade20304c44169911d313450515cf6e\jetified-android-pdf-viewer-2.8.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\6f93fa487a0b5337730ae9700e87b1fb\jetified-android-pdf-viewer-2.8.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\6f93fa487a0b5337730ae9700e87b1fb\jetified-android-pdf-viewer-2.8.2\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.firebase:firebase-firestore:21.4.3] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\70dda07c032bb143a1954c8fa465c9b6\jetified-firebase-firestore-21.4.3\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.firebase:firebase-firestore:21.4.3] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\70dda07c032bb143a1954c8fa465c9b6\jetified-firebase-firestore-21.4.3\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.firebase:firebase-storage:19.1.1] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\67977f1a3465d3b7b4430dd5a4ec519e\jetified-firebase-storage-19.1.1\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.firebase:firebase-storage:19.1.1] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\67977f1a3465d3b7b4430dd5a4ec519e\jetified-firebase-storage-19.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\8983abf7c601b33c85e367ecd11fe64f\jetified-circleimageview-2.1.0\AndroidManifest.xml:5:5-7:41
-MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\8983abf7c601b33c85e367ecd11fe64f\jetified-circleimageview-2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\2fe33008620a6e894f0b9ffda78ce330\jetified-circleimageview-2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\2fe33008620a6e894f0b9ffda78ce330\jetified-circleimageview-2.1.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\6fdaa9e2af48aa5814537e7ccae9fb5b\multidex-2.0.0\AndroidManifest.xml:20:5-43
 MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\6fdaa9e2af48aa5814537e7ccae9fb5b\multidex-2.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.github.barteksc:pdfium-android:1.7.1] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\32788f97db444d243ceeac6c162864ec\jetified-pdfium-android-1.7.1\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.barteksc:pdfium-android:1.7.1] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\32788f97db444d243ceeac6c162864ec\jetified-pdfium-android-1.7.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:pdfium-android:1.7.1] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\95ce46dd0ad8966ed0bf1d7299888e34\jetified-pdfium-android-1.7.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:pdfium-android:1.7.1] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\95ce46dd0ad8966ed0bf1d7299888e34\jetified-pdfium-android-1.7.1\AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\0e33a3fee264141d46e02a505ad96f2e\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\0e33a3fee264141d46e02a505ad96f2e\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\5ba95251485b89dd038b9e33bec1bd67\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
@@ -422,15 +422,15 @@ INJECTED from E:\AndroidProjects\N.J.VidhyalayApp\app\src\main\AndroidManifest.x
 		ADDED from E:\AndroidProjects\N.J.VidhyalayApp\app\src\main\AndroidManifest.xml
 		INJECTED from E:\AndroidProjects\N.J.VidhyalayApp\app\src\main\AndroidManifest.xml
 activity#com.gun0912.tedpermission.TedPermissionActivity
-ADDED from [gun0912.ted:tedpermission:2.2.2] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\ba4aef12fe9ea06d1d2d91b1b0011a6f\jetified-tedpermission-2.2.2\AndroidManifest.xml:10:9-14:67
+ADDED from [gun0912.ted:tedpermission:2.2.2] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\90c341321224fcabf0a67a48cd5bb7e5\jetified-tedpermission-2.2.2\AndroidManifest.xml:10:9-14:67
 	android:screenOrientation
-		ADDED from [gun0912.ted:tedpermission:2.2.2] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\ba4aef12fe9ea06d1d2d91b1b0011a6f\jetified-tedpermission-2.2.2\AndroidManifest.xml:13:13-52
+		ADDED from [gun0912.ted:tedpermission:2.2.2] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\90c341321224fcabf0a67a48cd5bb7e5\jetified-tedpermission-2.2.2\AndroidManifest.xml:13:13-52
 	android:configChanges
-		ADDED from [gun0912.ted:tedpermission:2.2.2] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\ba4aef12fe9ea06d1d2d91b1b0011a6f\jetified-tedpermission-2.2.2\AndroidManifest.xml:12:13-144
+		ADDED from [gun0912.ted:tedpermission:2.2.2] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\90c341321224fcabf0a67a48cd5bb7e5\jetified-tedpermission-2.2.2\AndroidManifest.xml:12:13-144
 	android:theme
-		ADDED from [gun0912.ted:tedpermission:2.2.2] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\ba4aef12fe9ea06d1d2d91b1b0011a6f\jetified-tedpermission-2.2.2\AndroidManifest.xml:14:13-64
+		ADDED from [gun0912.ted:tedpermission:2.2.2] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\90c341321224fcabf0a67a48cd5bb7e5\jetified-tedpermission-2.2.2\AndroidManifest.xml:14:13-64
 	android:name
-		ADDED from [gun0912.ted:tedpermission:2.2.2] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\ba4aef12fe9ea06d1d2d91b1b0011a6f\jetified-tedpermission-2.2.2\AndroidManifest.xml:11:13-75
+		ADDED from [gun0912.ted:tedpermission:2.2.2] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\90c341321224fcabf0a67a48cd5bb7e5\jetified-tedpermission-2.2.2\AndroidManifest.xml:11:13-75
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.firebase:firebase-database:19.3.0] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\03d150163d2a9623fc439374a9a7c75a\jetified-firebase-database-19.3.0\AndroidManifest.xml:25:5-79
 MERGED from [com.google.firebase:firebase-firestore:21.4.3] C:\Users\PRATIK\.gradle\caches\transforms-2\files-2.1\70dda07c032bb143a1954c8fa465c9b6\jetified-firebase-firestore-21.4.3\AndroidManifest.xml:13:5-79

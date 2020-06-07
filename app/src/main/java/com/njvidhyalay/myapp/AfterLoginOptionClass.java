@@ -230,15 +230,18 @@ public class AfterLoginOptionClass extends MainActivity {
     }
 
     @Override
+    public void onBackPressed(){
+        super.onBackPressed();
+        this.finishAffinity();}
+    @Override
     protected void onActivityResult(int requestCode, int resultCode, @Nullable Intent data) {
-        if (requestCode == REQ_CODE_VERSION_UPDATE) {
-            if (resultCode == Activity.RESULT_CANCELED) {
+        if (requestCode == REQ_CODE_VERSION_UPDATE && resultCode == Activity.RESULT_CANCELED) {
+
                 // If the update is cancelled by the user,
                 // you can request to start the update again.
                 inAppUpdateManager.checkForAppUpdate();
 
                // Log.d(TAG, "Update flow failed! Result code: " + resultCode);
-            }
         }
         super.onActivityResult(requestCode, resultCode, data);
     }

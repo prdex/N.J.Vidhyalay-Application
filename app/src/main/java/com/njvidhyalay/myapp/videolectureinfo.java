@@ -149,6 +149,5 @@ public class videolectureinfo extends AppCompatActivity {
         iddetail.addView(idnew);
 
         tableLayout.addView(iddetail);
-
     }
 }

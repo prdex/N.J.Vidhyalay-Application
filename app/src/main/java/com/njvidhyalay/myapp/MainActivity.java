@@ -6,9 +6,7 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
-import android.os.Build;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
@@ -42,10 +40,6 @@ public class MainActivity extends AppCompatActivity {
     int count = 0;
     int rollnoforcheck;
     private DatePickerDialog.OnDateSetListener mDateSetListener;
-
-    public MainActivity() {
-    }
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

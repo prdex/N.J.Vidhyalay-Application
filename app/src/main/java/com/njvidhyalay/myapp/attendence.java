@@ -4,7 +4,6 @@ import android.content.Context;
 import android.content.SharedPreferences;
 import android.graphics.Color;
 import android.graphics.drawable.GradientDrawable;
-import android.os.Build;
 import android.os.Bundle;
 import android.view.Gravity;
 import android.view.View;
@@ -13,7 +12,6 @@ import android.widget.TableRow;
 import android.widget.TextView;
 
 import androidx.annotation.NonNull;
-import androidx.annotation.RequiresApi;
 
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
@@ -62,8 +60,8 @@ public class attendence extends MainActivity {
                 for (DataSnapshot ds : dataSnapshot.getChildren()) {
                     attendenceinfo info = ds.getValue(attendenceinfo.class);          //where we got reference, it takes snapshot, looping will give us acces to each child
 
-                        String date =  info.getDate();;
-                        String presentorabsent = info.getPresentorabsent();;
+                        String date =  info.getDate();
+                        String presentorabsent = info.getPresentorabsent();
                         char a  = presentorabsent.charAt(rollnoforcheck-1);
                         String temp = Character.toString(a);
                         textViewParam = new TableRow.LayoutParams(TableRow.LayoutParams.MATCH_PARENT, TableLayout.LayoutParams.MATCH_PARENT, 1.0f);
