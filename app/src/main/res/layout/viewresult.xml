@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".resubscribe">
+    tools:context=".Marks">
 
 
 
@@ -13,7 +13,7 @@
     android:layout_width="match_parent"
     android:background="#FFFFFF"
     android:layout_height="wrap_content"
-    tools:context=".resubscribe">
+    tools:context=".Marks">
 
 <!--    <Spinner-->
 

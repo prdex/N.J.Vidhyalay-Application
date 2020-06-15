@@ -20,10 +20,15 @@
 
         </activity>
 
-        <activity android:name="com.njvidhyalay.myapp.resubscribe" android:noHistory="true">
+        <activity android:name="com.njvidhyalay.myapp.Marks" android:noHistory="true">
 
         </activity>
-		
+
+        <activity android:name="com.njvidhyalay.myapp.LeaderBoard" android:noHistory="true">
+
+        </activity>
+
+
 		<activity android:name="com.njvidhyalay.myapp.AfterLoginOptionClass">
 		
 		</activity>
@@ -58,9 +63,12 @@
         <activity android:name="com.njvidhyalay.myapp.attendence">
 
         </activity>
-        <activity android:name="com.njvidhyalay.myapp.materialclassification">
+        <activity android:name="com.njvidhyalay.myapp.NoticeBoard">
 
         </activity>
+        <activity android:name="com.njvidhyalay.myapp.materialclassification">
+
+    </activity>
 
         <activity android:name="com.njvidhyalay.myapp.SplashScreen" >
             <intent-filter>

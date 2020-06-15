@@ -8,8 +8,8 @@ android {
         applicationId "com.njvidhyalay.myapp"
         minSdkVersion 16
         targetSdkVersion 29
-        versionCode 8
-        versionName "1.8"
+        versionCode 9
+        versionName "1.9"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
@@ -25,21 +25,26 @@ dependencies {
     implementation 'com.android.support.constraint:constraint-layout:1.1.3'
     implementation 'com.android.support:appcompat-v7:29.0.0'
     implementation 'com.android.support:cardview-v7:29.0.0'
-    implementation 'com.google.android.material:material:1.2.0-alpha06'
+    implementation 'com.google.android.material:material:1.3.0-alpha01'
     implementation 'com.intuit.sdp:sdp-android:1.0.6'
     implementation 'com.intuit.ssp:ssp-android:1.0.6'
     implementation 'com.firebaseui:firebase-ui-database:6.2.0'
 //    implementation 'com.google.android.gms:play-services-ads:19.1.0'
     implementation 'com.google.firebase:firebase-database:19.3.0'
     implementation 'com.google.firebase:firebase-auth:19.3.1'
-    implementation 'com.google.firebase:firebase-messaging:20.1.7'
+    implementation 'com.google.firebase:firebase-messaging:20.2.0'
     implementation 'gun0912.ted:tedpermission:2.2.2'
-    implementation 'com.google.android.play:core:1.7.2'
-
+    implementation 'com.google.android.play:core:1.7.3'
     implementation 'com.github.barteksc:android-pdf-viewer:2.8.2'
-    implementation 'eu.dkaratzas:android-inapp-update:1.0.5'
-    
+   implementation 'eu.dkaratzas:android-inapp-update:1.0.5'
+   // implementation 'com.google.firebase:firebase-config:19.1.4'
+   // implementation 'com.google.firebase:firebase-analytics:17.4.3'
+
+ //   implementation 'com.nex3z:notification-badge:1.0.2'
+//    implementation 'com.github.SanojPunchihewa:InAppUpdater:1.0.5'
+
     implementation 'com.google.firebase:firebase-firestore:21.4.3'
+
     implementation 'com.google.firebase:firebase-storage:19.1.1'
 //    implementation 'com.google.firebase:firebase-ads:19.1.0'
     testImplementation 'junit:junit:4.13'

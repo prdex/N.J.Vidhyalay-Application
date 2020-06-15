@@ -1,1 +1,28 @@
-[{"outputType":{"type":"INSTANT_APP_MANIFEST"},"apkData":{"type":"MAIN","splits":[],"versionCode":8,"versionName":"1.8","enabled":true,"outputFile":"app-release.apk","fullName":"release","baseName":"release","dirName":""},"path":"AndroidManifest.xml","properties":{"packageId":"com.njvidhyalay.myapp","split":"","minSdkVersion":"16"}}]
+{
+  "version": 1,
+  "applicationId": "com.njvidhyalay.myapp",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "INSTANT_APP_MANIFEST"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 9,
+        "versionName": "1.9",
+        "outputFile": "app-release.apk",
+        "fullName": "release",
+        "baseName": "release",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "com.njvidhyalay.myapp",
+        "split": "",
+        "minSdkVersion": "16"
+      }
+    }
+  ]
+}

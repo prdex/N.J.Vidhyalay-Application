@@ -61,7 +61,7 @@ public class assignmentclassification extends AppCompatActivity {
         subjectlist11and12.add("S.P.C.C.");
         subjectlist11and12.add("અંગ્રેજી");
         subjectlist11and12.add("આંકડાશાસ્ત્ર");       // This will solve be useful as student completes in one standard and moves to next
-        subjectlist11and12.add("આર્થશાસ્ત્ર");
+        subjectlist11and12.add("અર્થશાસ્ત્ર");
         subjectlist11and12.add("એકાઉન્ટ");
         subjectlist11and12.add("ગુજરાતી");
         subjectlist11and12.add("તત્વજ્ઞાન");

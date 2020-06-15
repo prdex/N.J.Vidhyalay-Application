@@ -32,7 +32,6 @@ public class assignmentdate extends AppCompatActivity {
 
     private FirebaseDatabase database;
     private DatabaseReference myRef;
-    private DatabaseReference assigRef;
     Context context;
     CardView cardview;
     LinearLayout.LayoutParams layoutparams;

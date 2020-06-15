@@ -28,14 +28,18 @@ import com.google.firebase.database.ValueEventListener;
 import java.util.ArrayList;
 import java.util.Calendar;
 
+import eu.dkaratzas.android.inapp.update.InAppUpdateManager;
+
 public class MainActivity extends AppCompatActivity {
 
-  //  private static final int REQ_CODE_VERSION_UPDATE = 530;
+
     private EditText rollno; //std;
     private Button log;
     private TextView mDisplayDate;
     Spinner spinner;
     ArrayList<String> spinnerstd;
+    private InAppUpdateManager inAppUpdateManager;
+
 
     int count = 0;
     int rollnoforcheck;
@@ -47,13 +51,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
        findViewById(R.id.loadingPanelmainactivity).setVisibility(View.GONE);
 
-    //if(Build.VERSION.SDK_INT > Build.VERSION_CODES.JELLY_BEAN) {
-//        InAppUpdateManager inAppUpdateManager = InAppUpdateManager.Builder(this, REQ_CODE_VERSION_UPDATE)
-//                .resumeUpdates(true) // Resume the update, if the update was stalled. Default is true
-//                .mode(Constants.UpdateMode.IMMEDIATE);
-//
-//        inAppUpdateManager.checkForAppUpdate();
-    //}
+
 
         rollno = findViewById(R.id.rollno);         //simple, get the fields and sent to resubscribe class on clicking login button
 //        std = findViewById(R.id.std);

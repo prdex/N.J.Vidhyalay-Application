@@ -4,25 +4,44 @@ import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.os.Build;
+import android.os.Bundle;
+import android.os.Handler;
+import android.widget.ImageView;
+
+import androidx.annotation.Nullable;
+
+import eu.dkaratzas.android.inapp.update.Constants;
+import eu.dkaratzas.android.inapp.update.InAppUpdateManager;
+
+
 //import com.google.android.gms.ads.AdRequest;
 //import com.google.android.gms.ads.AdView;
 //import com.google.android.gms.ads.MobileAds;
 //import com.google.android.gms.ads.initialization.InitializationStatus;
 //import com.google.android.gms.ads.initialization.OnInitializationCompleteListener;
-import android.os.Bundle;
-import android.os.Handler;
-import android.util.Log;
-import android.widget.ImageView;
 
 
-
-public class SplashScreen extends Activity {
+public class SplashScreen extends MainActivity {
+    private static final int REQ_CODE_VERSION_UPDATE =  530;
     public static int SPLASH_TIME_OUT = 2000;
     private static int  firstcount=0;
+    private InAppUpdateManager inAppUpdateManager;
+  //  private static final int REQ_CODE_VERSION_UPDATE = 530;
+   // private InAppUpdateManager inAppUpdateManager;
+
 
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
+
+        if(Build.VERSION.SDK_INT > Build.VERSION_CODES.JELLY_BEAN) {
+            inAppUpdateManager = InAppUpdateManager.Builder(SplashScreen.this, REQ_CODE_VERSION_UPDATE)
+                    .resumeUpdates(true) // Resume the update, if the update was stalled. Default is true
+                    .mode(Constants.UpdateMode.IMMEDIATE);
+
+            inAppUpdateManager.checkForAppUpdate();
+        }
 
         Handler handler;
         ImageView img;
@@ -34,6 +53,7 @@ public class SplashScreen extends Activity {
 //            finish();
 //            firstcount++;
 //        }
+
 
         handler = new Handler();
         handler.postDelayed(new Runnable() {
@@ -64,7 +84,24 @@ public class SplashScreen extends Activity {
             }
         },SPLASH_TIME_OUT);
 // decide here whether to navigate to Login or Main Activit
+
+
     }
+
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, @Nullable Intent data) {
+        if (requestCode == REQ_CODE_VERSION_UPDATE) {
+            if (resultCode == Activity.RESULT_CANCELED) {
+                // If the update is cancelled by the user,
+                // you can request to start the update again.
+                inAppUpdateManager.checkForAppUpdate();
+
+                // Log.d(TAG, "Update flow failed! Result code: " + resultCode);
+            }
+        }
+        super.onActivityResult(requestCode, resultCode, data);
+    }
+
 
 }
 

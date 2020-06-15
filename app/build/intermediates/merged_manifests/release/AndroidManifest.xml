@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.njvidhyalay.myapp"
-    android:versionCode="8"
-    android:versionName="1.8" >
+    android:versionCode="9"
+    android:versionName="1.9" >
 
     <uses-sdk
         android:minSdkVersion="16"
@@ -38,7 +38,11 @@
             android:noHistory="true" >
         </activity>
         <activity
-            android:name="com.njvidhyalay.myapp.resubscribe"
+            android:name="com.njvidhyalay.myapp.Marks"
+            android:noHistory="true" >
+        </activity>
+        <activity
+            android:name="com.njvidhyalay.myapp.LeaderBoard"
             android:noHistory="true" >
         </activity>
         <activity android:name="com.njvidhyalay.myapp.AfterLoginOptionClass" >
@@ -60,6 +64,8 @@
         <activity android:name="com.njvidhyalay.myapp.bookpdfview" >
         </activity>
         <activity android:name="com.njvidhyalay.myapp.attendence" >
+        </activity>
+        <activity android:name="com.njvidhyalay.myapp.NoticeBoard" >
         </activity>
         <activity android:name="com.njvidhyalay.myapp.materialclassification" >
         </activity>
@@ -120,6 +126,7 @@
         -->
         <service
             android:name="com.google.firebase.messaging.FirebaseMessagingService"
+            android:directBootAware="true"
             android:exported="false" >
             <intent-filter android:priority="-500" >
                 <action android:name="com.google.firebase.MESSAGING_EVENT" />

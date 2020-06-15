@@ -210,23 +210,23 @@
         app:layout_constraintVertical_bias="0.107" />
 
 
-        <GridLayout
+    <GridLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:alignmentMode="alignMargins"
         android:columnCount="2"
-        android:rowCount="3"
+        android:rowCount="4"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/noticeview">
 
         <androidx.cardview.widget.CardView
             android:id="@+id/assignmentview"
-            android:layout_width="@dimen/_100sdp"
-            android:layout_height="@dimen/_100sdp"
+            android:layout_width="@dimen/_90sdp"
+            android:layout_height="@dimen/_90sdp"
             android:layout_row="0"
             android:layout_column="0"
-            android:layout_marginStart="@dimen/_38sdp"
-            android:layout_marginLeft="@dimen/_38sdp"
+            android:layout_marginStart="@dimen/_50sdp"
+            android:layout_marginLeft="@dimen/_50sdp"
             android:layout_marginTop="@dimen/_15sdp">
 
             <LinearLayout
@@ -247,16 +247,15 @@
                     android:id="@+id/imageView"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    app:srcCompat="@drawable/assignmenticon"
-                    android:contentDescription="@string/image_name" />
+                    android:contentDescription="@string/image_name"
+                    app:srcCompat="@drawable/assignmenticon" />
             </LinearLayout>
-
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
-            android:id="@+id/testmarksview"
-            android:layout_width="@dimen/_100sdp"
-            android:layout_height="@dimen/_100sdp"
+            android:id="@+id/noticeboardview"
+            android:layout_width="@dimen/_90sdp"
+            android:layout_height="@dimen/_90sdp"
             android:layout_row="0"
             android:layout_column="1"
             android:layout_marginStart="@dimen/_28sdp"
@@ -274,26 +273,27 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:gravity="center"
-                    android:text="@string/testmarks"
+                    android:text="@string/noticeboard"
                     android:textSize="@dimen/_15sdp" />
 
                 <ImageView
-                    android:contentDescription="@string/todo"
                     android:id="@+id/imageView2"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    app:srcCompat="@drawable/testmarks" />
+                    android:contentDescription="@string/todo"
+                    app:srcCompat="@drawable/noticeboardicon" />
+
             </LinearLayout>
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
             android:id="@+id/lecture"
-            android:layout_width="@dimen/_100sdp"
-            android:layout_height="@dimen/_100sdp"
+            android:layout_width="@dimen/_90sdp"
+            android:layout_height="@dimen/_90sdp"
             android:layout_row="1"
             android:layout_column="0"
-            android:layout_marginStart="@dimen/_38sdp"
-            android:layout_marginLeft="@dimen/_38sdp"
+            android:layout_marginStart="@dimen/_50sdp"
+            android:layout_marginLeft="@dimen/_50sdp"
             android:layout_marginTop="@dimen/_7sdp">
 
             <LinearLayout
@@ -311,18 +311,18 @@
                     android:textSize="@dimen/_15sdp" />
 
                 <ImageView
-                    android:contentDescription="@string/todo"
                     android:id="@+id/imageView3"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
+                    android:contentDescription="@string/todo"
                     app:srcCompat="@drawable/videolectureicon" />
             </LinearLayout>
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
             android:id="@+id/materialicon"
-            android:layout_width="@dimen/_100sdp"
-            android:layout_height="@dimen/_100sdp"
+            android:layout_width="@dimen/_90sdp"
+            android:layout_height="@dimen/_90sdp"
             android:layout_row="1"
             android:layout_column="1"
             android:layout_marginStart="@dimen/_28sdp"
@@ -344,22 +344,22 @@
                     android:textSize="@dimen/_15sdp" />
 
                 <ImageView
-                    android:contentDescription="@string/todo"
                     android:id="@+id/imageView4"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
+                    android:contentDescription="@string/todo"
                     app:srcCompat="@drawable/materialicon" />
             </LinearLayout>
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
-            android:id="@+id/bookview"
-            android:layout_width="@dimen/_100sdp"
-            android:layout_height="@dimen/_100sdp"
+            android:id="@+id/leaderboard"
+            android:layout_width="@dimen/_90sdp"
+            android:layout_height="@dimen/_90sdp"
             android:layout_row="2"
             android:layout_column="0"
-            android:layout_marginStart="@dimen/_38sdp"
-            android:layout_marginLeft="@dimen/_38sdp"
+            android:layout_marginStart="@dimen/_50sdp"
+            android:layout_marginLeft="@dimen/_50sdp"
             android:layout_marginTop="@dimen/_7sdp">
 
             <LinearLayout
@@ -373,22 +373,22 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:gravity="center"
-                    android:text="@string/textbook"
+                    android:text="@string/leaderboard"
                     android:textSize="@dimen/_15sdp" />
 
                 <ImageView
-                    android:contentDescription="@string/todo"
                     android:id="@+id/imageView5"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    app:srcCompat="@drawable/bookicon" />
+                    android:contentDescription="@string/todo"
+                    app:srcCompat="@drawable/leaderboardicon" />
             </LinearLayout>
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
-            android:id="@+id/attendence"
-            android:layout_width="@dimen/_100sdp"
-            android:layout_height="@dimen/_100sdp"
+            android:id="@+id/testmarksview"
+            android:layout_width="@dimen/_90sdp"
+            android:layout_height="@dimen/_90sdp"
             android:layout_row="2"
             android:layout_column="1"
             android:layout_marginStart="@dimen/_28sdp"
@@ -406,17 +406,98 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:gravity="center"
+                    android:text="@string/testmarks"
+                    android:textSize="@dimen/_15sdp" />
+
+                <ImageView
+                    android:id="@+id/attendenceimage"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:contentDescription="@string/todo"
+                    app:srcCompat="@drawable/testmarks" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/bookview"
+            android:layout_width="@dimen/_90sdp"
+            android:layout_height="@dimen/_90sdp"
+            android:layout_row="3"
+            android:layout_column="0"
+            android:layout_marginStart="@dimen/_50sdp"
+            android:layout_marginLeft="@dimen/_50sdp"
+            android:layout_marginTop="@dimen/_7sdp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#DCD6D6"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/textViewleaderboard"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="@string/textbook"
+                    android:textSize="@dimen/_15sdp" />
+
+                <ImageView
+                    android:id="@+id/imageViewleaderboard"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:contentDescription="@string/image_name"
+                    app:srcCompat="@drawable/bookicon" />
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/attendenceview"
+            android:layout_width="@dimen/_90sdp"
+            android:layout_height="@dimen/_90sdp"
+            android:layout_row="3"
+            android:layout_column="1"
+            android:layout_marginStart="@dimen/_28sdp"
+            android:layout_marginLeft="@dimen/_28sdp"
+            android:layout_marginTop="@dimen/_7sdp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#DCD6D6"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/textViewnoticeboard"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
                     android:text="@string/attendence"
                     android:textSize="@dimen/_15sdp" />
 
                 <ImageView
-                    android:contentDescription="@string/todo"
-                    android:id="@+id/attendenceimage"
+                    android:id="@+id/imageViewnoticeboard"
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    app:srcCompat="@drawable/attendenceicon" />
+                    android:layout_height="match_parent"
+                    app:srcCompat="@drawable/attendenceicon"
+                    android:contentDescription="@string/image_name" />
             </LinearLayout>
+
         </androidx.cardview.widget.CardView>
+
+<!--        <com.nex3z.notificationbadge.NotificationBadge-->
+<!--            android:id="@+id/badge"-->
+<!--            android:layout_width="@dimen/_28sdp"-->
+<!--            android:layout_height="@dimen/_28sdp"-->
+<!--            android:layout_row="0"-->
+<!--            android:layout_column="1"-->
+<!--            app:nbBackground="@drawable/badge_bg_with_shadow"-->
+<!--            app:maxTextLength="2"-->
+<!--           android:layout_marginLeft="@dimen/_90sdp"-->
+<!--            android:layout_marginStart="@dimen/_90sdp">-->
+
+<!--        </com.nex3z.notificationbadge.NotificationBadge>-->
     </GridLayout>
 
 

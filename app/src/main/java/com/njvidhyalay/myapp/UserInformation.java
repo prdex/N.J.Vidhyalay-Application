@@ -9,6 +9,7 @@ public class UserInformation {
     private String totalmarks;
     private String chapter;
 
+
     public UserInformation(){
 
     }

@@ -1,15 +1,15 @@
 [
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_person_black_34dp.xml.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_person_black_34dp.xml"
+        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_background.xml.flat",
+        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\drawable-v24\\ic_launcher_background.xml"
     },
     {
         "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bookicon.png.flat",
         "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\drawable\\bookicon.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_background.xml.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\drawable-v24\\ic_launcher_background.xml"
+        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_person_black_34dp.xml.flat",
+        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_person_black_34dp.xml"
     },
     {
         "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_person_black_24dp.png.flat",
@@ -80,8 +80,16 @@
         "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_person_black_44dp.png"
     },
     {
+        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_leaderboardlayout.xml.flat",
+        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout\\leaderboardlayout.xml"
+    },
+    {
         "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_person_black_24dp.png.flat",
         "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_person_black_24dp.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_noticeboardlayout.xml.flat",
+        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout\\noticeboardlayout.xml"
     },
     {
         "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
@@ -236,6 +244,10 @@
         "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\drawable\\testmarks.png"
     },
     {
+        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_leaderboardicon.png.flat",
+        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\drawable\\leaderboardicon.png"
+    },
+    {
         "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
         "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
@@ -310,6 +322,10 @@
     {
         "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_mainbookview.xml.flat",
         "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout\\mainbookview.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_noticeboardicon.png.flat",
+        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\drawable\\noticeboardicon.png"
     },
     {
         "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",

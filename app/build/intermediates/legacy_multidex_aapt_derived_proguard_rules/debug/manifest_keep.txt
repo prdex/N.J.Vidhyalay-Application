@@ -1,4 +1,2 @@
-# Referenced at E:\AndroidProjects\N.J.VidhyalayApp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:23
 -keep class androidx.core.app.CoreComponentFactory { <init>(); }
-# Referenced at E:\AndroidProjects\N.J.VidhyalayApp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:23
 -keep class androidx.multidex.MultiDexApplication { <init>(); }
