@@ -37,9 +37,12 @@ Now the idea is to make another app for teachers where they can add marks, check
 * 1.7
     * FIX: DOB and Roll No Validation
 * 1.8
+    * FIX: Minor Bugs
+* 1.9
     * ADD: LeaderBoard Section
     * ADD: NoticeBoard Section
-
+* 2.0
+    * Work in Progress
 ## Meta
 
 Pratik Bambhania – [@_patrickism](https://twitter.com/@_patrickism) – bambhania.pratik9090@gmail.com
