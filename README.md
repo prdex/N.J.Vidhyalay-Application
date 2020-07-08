@@ -4,6 +4,7 @@
 This application will give a personalized experience to students. 
 
 ![](header.png)
+![Alt text](/N.J.Vidhyalay-Application/entrypage.png?raw=true "Optional Title")
 
 ## Usage example
 
