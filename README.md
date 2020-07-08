@@ -5,7 +5,7 @@ This application will give a personalized experience to students.
 
 <img src="images/entrypage.png" width="200" height="300"/>&nbsp;&nbsp;&nbsp;<img src="images/afterloginpage.jpg" width="200" height="300"/>&nbsp;&nbsp;&nbsp;<img src="images/testmarks.jpg" width="200" height="300"/>&nbsp;&nbsp;&nbsp;<img src="images/attendence.jpg" width="200" height="300"/>&nbsp;&nbsp;&nbsp;<img src="images/textbooks.png" width="200" height="300"/>&nbsp;&nbsp;&nbsp;<img src="images/zoomlink.png" width="200" height="300"/>
 
-## Usage example
+## Description
 
 I believe each school is unique in it's own way, and each one has it's own needs.
 I have started with some of the basic feature like Homework Submission, Test Records, Attendence Record, Downlaod and View Textbook , and Download and View Material.
