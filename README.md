@@ -3,8 +3,7 @@
 
 This application will give a personalized experience to students. 
 
-![](header.png)
-![](N.J.Vidhyalay-Application/entrypage.png)
+<img src="images/entrypage.png" width="200" height="300"/>&nbsp;&nbsp;&nbsp;<img src="images/afterloginpage.jpg" width="200" height="300"/>&nbsp;&nbsp;&nbsp;<img src="images/testmarks.jpg" width="200" height="300"/>&nbsp;&nbsp;&nbsp;<img src="images/attendence.jpg" width="200" height="300"/>&nbsp;&nbsp;&nbsp;<img src="images/textbooks.png" width="200" height="300"/>&nbsp;&nbsp;&nbsp;<img src="images/zoomlink.png" width="200" height="300"/>
 
 ## Usage example
 
@@ -47,7 +46,7 @@ Now the idea is to make another app for teachers where they can add marks, check
 ## Meta
 
 Pratik Bambhania – [@_patrickism](https://twitter.com/@_patrickism) – bambhania.pratik9090@gmail.com
-Distributed under the XYZ license. See ``LICENSE`` for more information.
+Distributed under the MIT license. See ``LICENSE`` for more information.
 
 [https://github.com/prdex/](https://github.com/dbader/)
 
