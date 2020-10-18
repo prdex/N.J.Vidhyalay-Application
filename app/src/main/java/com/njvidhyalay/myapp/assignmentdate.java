@@ -76,7 +76,7 @@ public class assignmentdate extends AppCompatActivity {
        // SharedPreferences settings = getApplicationContext().getSharedPreferences("ActivityPREF", Context.MODE_PRIVATE);
         //final SharedPreferences.Editor editor = settings.edit();
 
-        final String userNameroll,subject;
+        final String userNameroll,subject, dateofsubmit;
 
         SharedPreferences settings = getApplicationContext().getSharedPreferences("assignmentindex", Context.MODE_PRIVATE);
         subject = settings.getString("assignmentindexsubject", String.valueOf(0));

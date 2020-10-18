@@ -2,8 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.njvidhyalay.myapp"
     android:targetSandboxVersion="2"
-    android:versionCode="9"
-    android:versionName="1.9" >
+    android:versionCode="13"
+    android:versionName="2.3" >
 
     <uses-sdk
         android:minSdkVersion="16"
@@ -69,7 +69,21 @@
         </activity>
         <activity android:name="com.njvidhyalay.myapp.NoticeBoard" >
         </activity>
+        <activity android:name="com.njvidhyalay.myapp.Gallery" >
+        </activity>
+        <activity android:name="com.njvidhyalay.myapp.Galleryview" >
+        </activity>
         <activity android:name="com.njvidhyalay.myapp.materialclassification" >
+        </activity>
+        <activity
+            android:name="com.njvidhyalay.myapp.GeneralNotice"
+            android:noHistory="true" >
+        </activity>
+        <activity android:name="com.njvidhyalay.myapp.quiz" >
+        </activity>
+        <activity android:name="com.njvidhyalay.myapp.quizclassification" >
+        </activity>
+        <activity android:name="com.njvidhyalay.myapp.videolectureclassification" >
         </activity>
         <activity android:name="com.njvidhyalay.myapp.SplashScreen" >
             <intent-filter>
@@ -79,16 +93,20 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name="com.gun0912.tedpermission.TedPermissionActivity"
-            android:configChanges="mcc|mnc|locale|keyboard|keyboardHidden|screenLayout|fontScale|uiMode|orientation|screenSize|layoutDirection"
-            android:screenOrientation="unspecified"
-            android:theme="@style/Theme.Transparent.Permission" />
+
+        <provider
+            android:name="com.google.firebase.perf.provider.FirebasePerfProvider"
+            android:authorities="com.njvidhyalay.myapp.firebaseperfprovider"
+            android:exported="false"
+            android:initOrder="101" />
 
         <service
             android:name="com.google.firebase.components.ComponentDiscoveryService"
             android:directBootAware="true"
             android:exported="false" >
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.perf.FirebasePerfRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
             <meta-data
                 android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
                 android:value="com.google.firebase.components.ComponentRegistrar" />
@@ -105,15 +123,32 @@
                 android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
                 android:value="com.google.firebase.components.ComponentRegistrar" />
             <meta-data
-                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
                 android:value="com.google.firebase.components.ComponentRegistrar" />
             <meta-data
-                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+                android:name="com.google.firebase.components:com.google.firebase.remoteconfig.RemoteConfigRegistrar"
                 android:value="com.google.firebase.components.ComponentRegistrar" />
             <meta-data
                 android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
                 android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.abt.component.AbtRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
         </service>
+
+        <activity
+            android:name="com.gun0912.tedpermission.TedPermissionActivity"
+            android:configChanges="mcc|mnc|locale|keyboard|keyboardHidden|screenLayout|fontScale|uiMode|orientation|screenSize|layoutDirection"
+            android:screenOrientation="unspecified"
+            android:theme="@style/Theme.Transparent.Permission" />
+
+        <provider
+            android:name="com.squareup.picasso.PicassoProvider"
+            android:authorities="com.njvidhyalay.myapp.com.squareup.picasso"
+            android:exported="false" />
 
         <activity
             android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
@@ -161,16 +196,17 @@
             </intent-filter>
         </receiver>
 
-        <provider
-            android:name="com.google.firebase.provider.FirebaseInitProvider"
-            android:authorities="com.njvidhyalay.myapp.firebaseinitprovider"
-            android:exported="false"
-            android:initOrder="100" />
-
         <activity
             android:name="com.google.android.gms.common.api.GoogleApiActivity"
             android:exported="false"
             android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:authorities="com.njvidhyalay.myapp.firebaseinitprovider"
+            android:directBootAware="true"
+            android:exported="false"
+            android:initOrder="100" />
 
         <meta-data
             android:name="com.google.android.gms.version"

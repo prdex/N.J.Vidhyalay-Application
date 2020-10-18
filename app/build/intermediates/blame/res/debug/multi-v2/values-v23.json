@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "outputFile": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\PRATIK\\.gradle\\caches\\transforms-2\\files-2.1\\3c7f6781fcf31e3a1083c1beda2763df\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\Pratik\\.gradle\\caches\\transforms-2\\files-2.1\\88c5febad16cc407ddaf9cdafa025a25\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,18 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\PRATIK\\.gradle\\caches\\transforms-2\\files-2.1\\d6deaebf25d0adbc5d4236c28c7f2f81\\material-1.3.0-alpha01\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\Pratik\\.gradle\\caches\\transforms-2\\files-2.1\\7fc7a92dafa0015f16c5428ad8721ee0\\appcompat-1.1.0\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,20,34,35,36,37,41,42,43,44",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,190,325,400,487,1371,2267,2386,2513,2618,2842,2957,3064,3177",
+                        "endLines": "2,3,4,5,19,33,34,35,36,40,41,42,43,47",
+                        "endColumns": "134,134,74,86,12,12,118,126,104,12,114,106,112,12",
+                        "endOffsets": "185,320,395,482,1366,2262,2381,2508,2613,2837,2952,3059,3172,3402"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Pratik\\.gradle\\caches\\transforms-2\\files-2.1\\258fd8312b6eee77e15fa60fee0f227d\\material-1.3.0-alpha02\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,6",
                         "startColumns": "4,4",
@@ -39,17 +50,6 @@
                         "endLines": "54,58",
                         "endColumns": "10,10",
                         "endOffsets": "3817,4090"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\PRATIK\\.gradle\\caches\\transforms-2\\files-2.1\\364e4825169c12475f081c76007a19b5\\appcompat-1.1.0\\res\\values-v23\\values-v23.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,20,34,35,36,37,41,42,43,44",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,190,325,400,487,1371,2267,2386,2513,2618,2842,2957,3064,3177",
-                        "endLines": "2,3,4,5,19,33,34,35,36,40,41,42,43,47",
-                        "endColumns": "134,134,74,86,12,12,118,126,104,12,114,106,112,12",
-                        "endOffsets": "185,320,395,482,1366,2262,2381,2508,2613,2837,2952,3059,3172,3402"
                     }
                 }
             ]

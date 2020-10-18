@@ -1,10 +1,7 @@
-#Sun Jun 14 20:03:24 IST 2020
-path.2=classes2.dex
-path.1=classes.dex
-path.0=classes.dex
-renamed.2=classes3.dex
+#Sat Oct 17 23:01:52 IST 2020
+base.0=D\:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+path.1=classes2.dex
 renamed.1=classes2.dex
+path.0=classes.dex
 renamed.0=classes.dex
-base.2=E\:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
-base.1=E\:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
-base.0=E\:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=D\:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes2.dex

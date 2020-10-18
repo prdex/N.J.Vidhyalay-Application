@@ -1,370 +1,414 @@
 [
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout_mainmaterial.xml.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout\\mainmaterial.xml"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout_assignmentclassifcation.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout\\assignmentclassifcation.xml"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_materialicon.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\drawable\\materialicon.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_quiz.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\drawable\\quiz.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_person_black_34dp.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_person_black_34dp.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_person_black_24dp.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_person_black_24dp.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_person_black_34dp.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_person_black_34dp.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout_assignmentdateview.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout\\assignmentdateview.xml"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout-xlarge_activity_main.xml.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout-xlarge\\activity_main.xml"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_noticeboardicon.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\drawable\\noticeboardicon.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_person_black_44dp.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_person_black_44dp.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout_assignmentclassifcation.xml.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout\\assignmentclassifcation.xml"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_person_black_14dp.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_person_black_14dp.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_attendenceicon.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\drawable\\attendenceicon.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_profile.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\drawable\\profile.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_splash.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout\\activity_splash.xml"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout_afterloginview.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout\\afterloginview.xml"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout-xlarge_assignmentdateview.xml.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout-xlarge\\assignmentdateview.xml"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_person_black_24dp.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_person_black_24dp.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_backgorund1.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\drawable\\backgorund1.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_person_black_44dp.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_person_black_44dp.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_profilecornoers.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\drawable\\profilecornoers.xml"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_videolectureicon.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\drawable\\videolectureicon.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_person_black_44dp.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_person_black_44dp.xml"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout-xlarge_uploadhomework.xml.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout-xlarge\\uploadhomework.xml"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_person_black_24dp.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_person_black_24dp.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout_generalnoticelayout.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout\\generalnoticelayout.xml"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_backgorund1.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\drawable\\backgorund1.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_button.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\drawable\\button.xml"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout_mainbookview.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout\\mainbookview.xml"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_person_black_34dp.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_person_black_34dp.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_person_black_14dp.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_person_black_14dp.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout_assignmentdateview.xml.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout\\assignmentdateview.xml"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout-xlarge_afterloginview.xml.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout-xlarge\\afterloginview.xml"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_person_black_14dp.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_person_black_14dp.xml"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_person_black_44dp.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_person_black_44dp.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_profilecornoers.xml.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\drawable\\profilecornoers.xml"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout_galleryactualview.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout\\galleryactualview.xml"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout_viewresult.xml.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout\\viewresult.xml"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_assignmenticon.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\drawable\\assignmenticon.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_buttonsmall.xml.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\drawable\\buttonsmall.xml"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout_videolecturedetail.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout\\videolecturedetail.xml"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout_videolecturedetail.xml.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout\\videolecturedetail.xml"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout_uploadhomework.xml.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout\\uploadhomework.xml"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_testmarks.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\drawable\\testmarks.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_person_black_14dp.xml.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_person_black_14dp.xml"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_buttonsmall.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\drawable\\buttonsmall.xml"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_noticeboardicon.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\drawable\\noticeboardicon.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_person_black_34dp.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_person_black_34dp.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_person_black_44dp.xml.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_person_black_44dp.xml"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout-xlarge_pdfviewer.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout-xlarge\\pdfviewer.xml"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout_afterloginview.xml.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout\\afterloginview.xml"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_tablecorners.xml.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\drawable\\tablecorners.xml"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_person_black_14dp.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_person_black_14dp.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout_attendencelayout.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout\\attendencelayout.xml"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_person_black_24dp.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_person_black_24dp.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_person_black_44dp.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_person_black_44dp.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_launcher_background.xml.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\drawable-v24\\ic_launcher_background.xml"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout-xlarge_assignmentdateview.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout-xlarge\\assignmentdateview.xml"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout_mainbookview.xml.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout\\mainbookview.xml"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_person_black_14dp.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_person_black_14dp.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_logos.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\drawable\\logos.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout_pdfbookview.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout\\pdfbookview.xml"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_person_black_34dp.xml.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_person_black_34dp.xml"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_materialicon.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\drawable\\materialicon.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_person_black_34dp.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_person_black_34dp.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout-xlarge_uploadhomework.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout-xlarge\\uploadhomework.xml"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_person_black_24dp.xml.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_person_black_24dp.xml"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_person_black_44dp.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_person_black_44dp.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout-xlarge_mainmaterialclassification.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout-xlarge\\mainmaterialclassification.xml"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_person_black_14dp.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_person_black_14dp.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_person_black_24dp.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_person_black_24dp.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout-xlarge_pdfbookview.xml.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout-xlarge\\pdfbookview.xml"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_person_black_24dp.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_person_black_24dp.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout_pdfviewer.xml.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout\\pdfviewer.xml"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout-xlarge_activity_main.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout-xlarge\\activity_main.xml"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_foreground.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout_noticeboardlayout.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout\\noticeboardlayout.xml"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout_leaderboardlayout.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout\\leaderboardlayout.xml"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_person_black_24dp.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_person_black_24dp.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_person_black_34dp.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_person_black_34dp.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout_pdfbookview.xml.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout\\pdfbookview.xml"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout_uploadhomework.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout\\uploadhomework.xml"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_person_black_34dp.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_person_black_34dp.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_splash.xml.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout\\activity_splash.xml"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout_videoclassficationlayout.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout\\videoclassficationlayout.xml"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_person_black_44dp.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_person_black_44dp.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout-xlarge_videolecturedetail.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout-xlarge\\videolecturedetail.xml"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout-xlarge_videolecturedetail.xml.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout-xlarge\\videolecturedetail.xml"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_app_logo.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\drawable\\app_logo.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_corners.xml.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\drawable\\corners.xml"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout_galleyview.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout\\galleyview.xml"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_person_black_44dp.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_person_black_44dp.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_assignmenticon.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\drawable\\assignmenticon.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_person_black_14dp.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_person_black_14dp.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout-xlarge_viewresult.xml.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout-xlarge\\viewresult.xml"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_tablecorners.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\drawable\\tablecorners.xml"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_person_black_14dp.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_person_black_14dp.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_bookicon.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\drawable\\bookicon.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_leaderboardicon.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\drawable\\leaderboardicon.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_corners.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\drawable\\corners.xml"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout-xlarge_activity_splash.xml.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout-xlarge\\activity_splash.xml"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout-xlarge_mainbookview.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout-xlarge\\mainbookview.xml"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_testmarks.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\drawable\\testmarks.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_person_black_34dp.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_person_black_34dp.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout_pdfviewer.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout\\pdfviewer.xml"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_person_black_44dp.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_person_black_44dp.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_like.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\drawable\\like.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_person_black_24dp.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_person_black_24dp.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout-xlarge_attendencelayout.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout-xlarge\\attendencelayout.xml"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout_leaderboardlayout.xml.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout\\leaderboardlayout.xml"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_person_black_44dp.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_person_black_44dp.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout-xlarge_pdfviewer.xml.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout-xlarge\\pdfviewer.xml"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_person_black_34dp.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_person_black_34dp.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_person_black_14dp.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_person_black_14dp.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout-xlarge_mainmaterial.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout-xlarge\\mainmaterial.xml"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_button.xml.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\drawable\\button.xml"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_person_black_24dp.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_person_black_24dp.xml"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout_mainmaterialclassification.xml.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout\\mainmaterialclassification.xml"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_leaderboardicon.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\drawable\\leaderboardicon.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_person_black_34dp.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_person_black_34dp.xml"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_attendenceicon.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\drawable\\attendenceicon.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_bookicon.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\drawable\\bookicon.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_videolectureicon.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\drawable\\videolectureicon.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout_mainmaterial.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout\\mainmaterial.xml"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout-xlarge_mainbookview.xml.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout-xlarge\\mainbookview.xml"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout_quizlayout.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout\\quizlayout.xml"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout_attendencelayout.xml.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout\\attendencelayout.xml"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_person_black_14dp.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_person_black_14dp.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout-xlarge_attendencelayout.xml.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout-xlarge\\attendencelayout.xml"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_person_black_44dp.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_person_black_44dp.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_person_black_44dp.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_person_black_44dp.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_person_black_24dp.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_person_black_24dp.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_person_black_44dp.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_person_black_44dp.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_person_black_24dp.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_person_black_24dp.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout-xlarge_mainmaterial.xml.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout-xlarge\\mainmaterial.xml"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_galleryicon.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\drawable\\galleryicon.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_person_black_34dp.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_person_black_34dp.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_person_black_24dp.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_person_black_24dp.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout-xlarge_mainmaterialclassification.xml.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout-xlarge\\mainmaterialclassification.xml"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_profile.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\drawable\\profile.png"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout_noticeboardlayout.xml.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout\\noticeboardlayout.xml"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout_quizclassificationlayout.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout\\quizclassificationlayout.xml"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_person_black_14dp.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_person_black_14dp.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout_viewresult.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout\\viewresult.xml"
     },
     {
-        "merged": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_person_black_14dp.png.flat",
-        "source": "E:\\AndroidProjects\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_person_black_14dp.png"
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_person_black_24dp.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_person_black_24dp.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout-xlarge_afterloginview.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout-xlarge\\afterloginview.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout-xlarge_pdfbookview.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout-xlarge\\pdfbookview.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_logos.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\drawable\\logos.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_launcher_background.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\drawable-v24\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_unlike.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\drawable\\unlike.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout_mainmaterialclassification.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout\\mainmaterialclassification.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_person_black_14dp.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_person_black_14dp.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_person_black_34dp.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_person_black_34dp.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_person_black_34dp.png.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_person_black_34dp.png"
+    },
+    {
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout-xlarge_activity_splash.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout-xlarge\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\build\\intermediates\\res\\merged\\release\\layout-xlarge_viewresult.xml.flat",
+        "source": "D:\\AndroidstudioWorkplace\\N.J.VidhyalayApp\\app\\src\\main\\res\\layout-xlarge\\viewresult.xml"
     }
 ]

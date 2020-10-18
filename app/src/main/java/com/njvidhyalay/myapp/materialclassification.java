@@ -5,6 +5,7 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.graphics.Color;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.Gravity;
 import android.view.View;
 import android.widget.LinearLayout;
@@ -31,6 +32,14 @@ public class materialclassification extends AppCompatActivity {
         setContentView(R.layout.mainmaterialclassification);
         SharedPreferences settings = getApplicationContext().getSharedPreferences("ActivityPREF", Context.MODE_PRIVATE);
         relativeLayout = findViewById(R.id.lineralayoutmaterial);
+
+//        MobileAds.initialize(this,"ca-app-pub-8203345875469099~1285727289");
+//        mAdView = (AdView) findViewById(R.id.adView);
+//        AdRequest adRequest = new AdRequest.Builder().build();
+//        mAdView.loadAd(adRequest);
+
+
+
 
         final String passStd;
 

@@ -9,6 +9,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
@@ -29,17 +30,15 @@ import com.google.firebase.database.ValueEventListener;
 public class AfterLoginOptionClass extends MainActivity {
 
     TextView studentname, studentroll,marquee;
-    CardView assignmentview, testmarksview, lecturedetails, materialicon, bookview, attendence, leaderboard, noticeboard;
+    CardView assignmentview, testmarksview, lecturedetails, materialicon, bookview, attendence, leaderboard, noticeboard,gallery, quiz;
   //  NotificationBadge mBadge;
     Button logout;
     private FirebaseDatabase database;
     private DatabaseReference myRef;
     private DatabaseReference textRef;
   //  private static final int REQ_CODE_VERSION_UPDATE = 530;
-    private static final String TAG = "Sample";
     //private InAppUpdateManager inAppUpdateManager;
   //  UpdateManager mUpdateManager;
-    int count = 0;
     int rollnoforcheck;
     String anothertxt;
     String StandardString = "";
@@ -83,6 +82,8 @@ public class AfterLoginOptionClass extends MainActivity {
         attendence = findViewById(R.id.attendenceview);
         leaderboard = findViewById(R.id.leaderboard);
         noticeboard = findViewById(R.id.noticeboardview);
+        gallery = findViewById(R.id.gallery);
+        quiz  =findViewById(R.id.quiz);
 
       //  mBadge = (NotificationBadge)findViewById(R.id.badge);
         logout = findViewById(R.id.logout);
@@ -108,8 +109,7 @@ public class AfterLoginOptionClass extends MainActivity {
                 editor.clear();
                 editor.apply();
                 setLoginState(false);
-                Intent intent = new Intent(AfterLoginOptionClass.this,
-                        MainActivity.class);
+                Intent intent = new Intent(AfterLoginOptionClass.this, MainActivity.class);
                 intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
                 intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
                 intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK);
@@ -160,36 +160,22 @@ public class AfterLoginOptionClass extends MainActivity {
             String stdreference = "std" + passStd;
             StandardString = "ધો. " + passStd;
 
-
-            myRef = database.getReference().child(stdreference);
-
             rollnoforcheck = Integer.parseInt(userNameroll);
+
+            myRef = database.getReference().child(stdreference).child(userNameroll).child("name");
 
             myRef.addValueEventListener(new ValueEventListener() {
                // @RequiresApi(api = Build.VERSION_CODES.JELLY_BEAN_MR1)
                 @Override
                 public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
-                    for (DataSnapshot ds : dataSnapshot.getChildren()) {
-                        UserInformation info = ds.getValue(UserInformation.class);          //where we got reference, it takes snapshot, looping will give us acces to each child
 
-                        if (count == rollnoforcheck - 1) {                                               //loop till we get his rollnumber
-                            anothertxt = info.getName();
-                            studentroll.setText(StandardString);    //getting name and marks from userinfocalss
+
+                            anothertxt = dataSnapshot.getValue(String.class);
+                            studentroll.setText(StandardString);
                             studentname.setText(anothertxt);
                             findViewById(R.id.loadingPanel).setVisibility(View.GONE);
-//                            assignmentview.setVisibility(View.VISIBLE);
-//                            testmarksview.setVisibility(View.VISIBLE);
-//                            lecturedetails.setVisibility(View.VISIBLE);
-//                            materialicon.setVisibility(View.VISIBLE);
-//                            bookview.setVisibility(View.VISIBLE);
-//                            attendence.setVisibility(View.VISIBLE);
-                            break;
-                        } else {
-                            count++;
-                        }
                     }
 
-                }
 
                 @Override
                 public void onCancelled(@NonNull DatabaseError databaseError) {
@@ -251,6 +237,20 @@ public class AfterLoginOptionClass extends MainActivity {
             @Override
             public void onClick(View v) {
                 Intent id = new Intent(AfterLoginOptionClass.this, NoticeBoard.class);
+                startActivity(id);
+            }
+        });
+        gallery.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent id = new Intent(AfterLoginOptionClass.this, Gallery.class);
+                startActivity(id);
+            }
+        });
+        quiz.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent id = new Intent(AfterLoginOptionClass.this, quizclassification.class);
                 startActivity(id);
             }
         });

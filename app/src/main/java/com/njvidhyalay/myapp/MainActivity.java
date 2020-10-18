@@ -38,6 +38,7 @@ public class MainActivity extends AppCompatActivity {
     private TextView mDisplayDate;
     Spinner spinner;
     ArrayList<String> spinnerstd;
+    private Button generalnotice;
     private InAppUpdateManager inAppUpdateManager;
 
 
@@ -49,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-       findViewById(R.id.loadingPanelmainactivity).setVisibility(View.GONE);
+        findViewById(R.id.loadingPanelmainactivity).setVisibility(View.GONE);
 
 
 
@@ -57,6 +58,7 @@ public class MainActivity extends AppCompatActivity {
 //        std = findViewById(R.id.std);
         log = findViewById(R.id.login);
         spinner = findViewById(R.id.std);
+        generalnotice = findViewById(R.id.generalnotice);
         final String[] date = new String[1];
         ArrayAdapter<String> spinnerAdapter = null;
 
@@ -82,6 +84,14 @@ public class MainActivity extends AppCompatActivity {
         spinner.setAdapter(spinnerAdapter);
         mDisplayDate = (TextView) findViewById(R.id.tvDate);
 
+        generalnotice.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, GeneralNotice.class);
+                startActivity(intent);
+            }
+        });
+
 
         mDisplayDate.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -105,7 +115,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onDateSet(DatePicker datePicker, int year, int month, int day) {
                 month = month + 1;
-            //    Log.d(TAG, "onDateSet: mm/dd/yyy: " + month + "/" + day + "/" + year);
+                //    Log.d(TAG, "onDateSet: mm/dd/yyy: " + month + "/" + day + "/" + year);
 
                 date[0] = day + "/" + month + "/" + year;
                 date[0] = date[0].trim();
@@ -117,7 +127,7 @@ public class MainActivity extends AppCompatActivity {
         log.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-               findViewById(R.id.loadingPanelmainactivity).setVisibility(View.VISIBLE);
+                findViewById(R.id.loadingPanelmainactivity).setVisibility(View.VISIBLE);
                 SharedPreferences settings = getSharedPreferences("ActivityPREF", Context.MODE_PRIVATE);
                 SharedPreferences.Editor editor = settings.edit();
                 editor.putBoolean("activity_executed", false).apply();
@@ -133,13 +143,13 @@ public class MainActivity extends AppCompatActivity {
                     rollnoforcheck = Integer.parseInt(rolling);
                 }
 
-            //    Log.d("tag","x="+rolling);
+                //    Log.d("tag","x="+rolling);
 
 
                 String passStd = "std" + standa;
                 passStd = passStd.trim();
                 String entereddate = mDisplayDate.getText().toString().trim();
-            //    Log.d("tag","x="+entereddate);
+                //    Log.d("tag","x="+entereddate);
                 if (rolling.isEmpty() && entereddate.isEmpty()) {
                     Toast.makeText(getApplicationContext(), "રોલ નં અને જન્મ તારીખ ખાલી છે.", Toast.LENGTH_SHORT).show();
                 } else if (rolling.isEmpty()) {
@@ -149,7 +159,7 @@ public class MainActivity extends AppCompatActivity {
                 } else {
                     mathcingdates(passStd, entereddate, standa, rolling);
                 }
-               findViewById(R.id.loadingPanelmainactivity).setVisibility(View.GONE);
+                findViewById(R.id.loadingPanelmainactivity).setVisibility(View.GONE);
             }
         });
     }
@@ -157,10 +167,10 @@ public class MainActivity extends AppCompatActivity {
     public void mathcingdates(String passStd, final String date, final String standa, final String rolling) {
         FirebaseDatabase database;
         DatabaseReference myRef;
-       // final int rollnoforcheckinthis = Integer.parseInt(rolling);
+        // final int rollnoforcheckinthis = Integer.parseInt(rolling);
 
         database = FirebaseDatabase.getInstance();
-    //    Log.d("tag","x="+passStd);
+        //    Log.d("tag","x="+passStd);
         myRef = database.getReference().child(passStd).child(rolling).child("date");
 
 
@@ -169,20 +179,20 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
                 String datess = dataSnapshot.getValue(String.class);
-            //    for (DataSnapshot ds : dataSnapshot.getChildren()) {
-              //      dateverifymodel infodate = ds.getValue(dateverifymodel.class);  //where we got reference, it takes snapshot, looping will give us acces to each child
+                //    for (DataSnapshot ds : dataSnapshot.getChildren()) {
+                //      dateverifymodel infodate = ds.getValue(dateverifymodel.class);  //where we got reference, it takes snapshot, looping will give us acces to each child
 
                 ///    if (countingrollno == rollnoforcheckinthis - 1) {
-                        //loop till we get his rollnumber
-                   //     assert infodate != null;
-                     //   String firebasedate = infodate.getDate();
-                    //    Log.d("tag", "x=" + firebasedate);
-                        matchstring(datess, date, standa, rolling);
-                       // break;
-                    //} else {
-                      //  count++;
-                    }
-                //}
+                //loop till we get his rollnumber
+                //     assert infodate != null;
+                //   String firebasedate = infodate.getDate();
+                //    Log.d("tag", "x=" + firebasedate);
+                matchstring(datess, date, standa, rolling);
+                // break;
+                //} else {
+                //  count++;
+            }
+            //}
             //}
 
             @Override
@@ -204,13 +214,13 @@ public class MainActivity extends AppCompatActivity {
             Intent intent = new Intent(MainActivity.this, AfterLoginOptionClass.class);
             startActivity(intent);
             MainActivity.this.finish();
-            }
-                else {
-                    Toast.makeText(getApplicationContext(), "રોલ નં અથવા જન્મ તારીખ ખોટી છે.", Toast.LENGTH_SHORT).show();
+        }
+        else {
+            Toast.makeText(getApplicationContext(), "રોલ નં અથવા જન્મ તારીખ ખોટી છે.", Toast.LENGTH_SHORT).show();
             SharedPreferences settings = getSharedPreferences("ActivityPREF", Context.MODE_PRIVATE);
             SharedPreferences.Editor editor = settings.edit();
             editor.clear();
             editor.apply();
-            }
         }
     }
+}

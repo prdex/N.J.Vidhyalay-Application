@@ -130,6 +130,19 @@
         app:layout_constraintTop_toBottomOf="@+id/LogoID" />
 
 
+    <Button
+        android:id="@+id/generalnotice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/generalnoticeboard"
+        android:textSize="@dimen/_13sdp"
+        android:textColor="#E91E63"
+        android:background="@drawable/corners"
+        app:layout_constraintBottom_toTopOf="@+id/ourinfo"
+        app:layout_constraintEnd_toEndOf="@+id/loadingPanelmainactivity"
+        app:layout_constraintStart_toEndOf="@+id/LogoID"
+        app:layout_constraintTop_toTopOf="parent" />
+
     <RelativeLayout
         android:id="@+id/loadingPanelmainactivity"
         android:layout_width="match_parent"
@@ -140,6 +153,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:indeterminate="true" />
+
     </RelativeLayout>
 
 

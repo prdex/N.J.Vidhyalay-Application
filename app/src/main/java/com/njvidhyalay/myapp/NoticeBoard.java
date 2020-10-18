@@ -39,13 +39,13 @@ public class NoticeBoard extends MainActivity {
         final SharedPreferences.Editor editor = settings.edit();
         editor.putBoolean("activity_executed", true).apply();
 
-        String  passStd;
+        final String passStd;
 
 
         passStd = settings.getString("standard", String.valueOf(0));
 
         //concatenate to make the exact string written in firebase database
-        String stdreference = "std" + passStd;
+        final String stdreference = "std" + passStd;
 
         database = FirebaseDatabase.getInstance();
         subref = database.getReference().child(stdreference).child("noticeboard");

@@ -50,6 +50,8 @@
     <string msgid="669893613918351210" name="common_signin_button_text_long">"Google માં સાઇન ઇન કરો"</string>
     <string name="dateofbirht">જન્મ તારીખ</string>
     <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"વિવિધ"</string>
+    <string name="gallerytext">ગેલેરી</string>
+    <string name="generalnoticeboard">નોટિસ બોર્ડ</string>
     <string name="homework">લેશન</string>
     <string name="image_name">TODO</string>
     <string name="leaderboard">રેંક</string>
@@ -61,6 +63,7 @@
 ૬૮, કલ્યાણનગર, બાલયોગીનગર પાછળ,
 ઘોઘારોડ, ભાવનગર-૩૬૪૦૦૧
 મો. ૯૯૦૪૫૬૧૮૪૨</string>
+    <string name="quiz">ટેસ્ટ પેપર</string>
     <string name="rollno">રોલ નં</string>
     <string msgid="730395136688082741" name="search_menu_title">"શોધો"</string>
     <string name="standard">ધોરણ</string>

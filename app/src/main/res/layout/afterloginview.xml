@@ -215,7 +215,7 @@
         android:layout_height="wrap_content"
         android:alignmentMode="alignMargins"
         android:columnCount="2"
-        android:rowCount="4"
+        android:rowCount="5"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/noticeview">
 
@@ -486,6 +486,75 @@
 
         </androidx.cardview.widget.CardView>
 
+        <androidx.cardview.widget.CardView
+            android:id="@+id/gallery"
+            android:layout_width="@dimen/_90sdp"
+            android:layout_height="@dimen/_90sdp"
+            android:layout_row="4"
+            android:layout_column="0"
+            android:layout_marginStart="@dimen/_50sdp"
+            android:layout_marginLeft="@dimen/_50sdp"
+            android:layout_marginTop="@dimen/_7sdp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#DCD6D6"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/gallerttext"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="@string/gallerytext"
+                    android:textSize="@dimen/_15sdp" />
+
+                <ImageView
+                    android:id="@+id/galleryimage"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    app:srcCompat="@drawable/galleryicon"
+                    android:contentDescription="@string/image_name" />
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/quiz"
+            android:layout_width="@dimen/_90sdp"
+            android:layout_height="@dimen/_90sdp"
+            android:layout_row="4"
+            android:layout_column="1"
+            android:layout_marginStart="@dimen/_28sdp"
+            android:layout_marginLeft="@dimen/_28sdp"
+            android:layout_marginTop="@dimen/_7sdp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#DCD6D6"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/quiztext"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="@string/quiz"
+                    android:textSize="@dimen/_15sdp" />
+
+                <ImageView
+                    android:id="@+id/quizimage"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    app:srcCompat="@drawable/quiz"
+                    android:contentDescription="@string/image_name" />
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
 <!--        <com.nex3z.notificationbadge.NotificationBadge-->
 <!--            android:id="@+id/badge"-->
 <!--            android:layout_width="@dimen/_28sdp"-->
@@ -496,7 +565,6 @@
 <!--            app:maxTextLength="2"-->
 <!--           android:layout_marginLeft="@dimen/_90sdp"-->
 <!--            android:layout_marginStart="@dimen/_90sdp">-->
-
 <!--        </com.nex3z.notificationbadge.NotificationBadge>-->
     </GridLayout>
 
@@ -507,8 +575,8 @@
 <!--        android:layout_height="wrap_content"-->
 <!--        android:layout_alignParentBottom="true"-->
 <!--        android:layout_centerHorizontal="true"-->
-<!--        app:adSize="BANNER"-->
-<!--        app:adUnitId="ca-app-pub-3940256099942544/6300978111"-->
+<!--        app:adSize="SMART_BANNER"-->
+<!--        app:adUnitId="ca-app-pub-8203345875469099/7276420564"-->
 <!--        app:layout_constraintBottom_toBottomOf="parent"-->
 <!--        app:layout_constraintEnd_toEndOf="parent"-->
 <!--        app:layout_constraintStart_toStartOf="parent" />-->

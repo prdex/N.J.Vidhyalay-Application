@@ -66,9 +66,28 @@
         <activity android:name="com.njvidhyalay.myapp.NoticeBoard">
 
         </activity>
+        <activity android:name="com.njvidhyalay.myapp.Gallery">
+
+        </activity>
+        <activity android:name="com.njvidhyalay.myapp.Galleryview">
+
+        </activity>
         <activity android:name="com.njvidhyalay.myapp.materialclassification">
 
-    </activity>
+        </activity>
+        <activity android:name="com.njvidhyalay.myapp.GeneralNotice" android:noHistory="true">
+        </activity>
+
+        <activity android:name="com.njvidhyalay.myapp.quiz">
+
+        </activity>
+
+        <activity android:name="com.njvidhyalay.myapp.quizclassification">
+
+        </activity>
+        <activity android:name="com.njvidhyalay.myapp.videolectureclassification">
+
+        </activity>
 
         <activity android:name="com.njvidhyalay.myapp.SplashScreen" >
             <intent-filter>

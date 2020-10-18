@@ -4,6 +4,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.graphics.Color;
+import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
 import android.view.Gravity;
 import android.view.View;
@@ -126,7 +127,8 @@ public class assignmentclassification extends AppCompatActivity {
                 textview.setTextColor(Color.BLACK);
                 textview.setGravity(Gravity.CENTER_HORIZONTAL);
                 textview.setId(j);
-                textview.setBackgroundColor(Color.WHITE);
+                textview.setBackgroundColor(getResources().getColor(R.color.backgroundcolor));
+
                 relativeLayout.addView(textview);
 
                 final int finalJ = j;

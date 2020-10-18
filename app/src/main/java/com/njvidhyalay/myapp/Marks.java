@@ -64,12 +64,12 @@ public class Marks extends MainActivity {
                         String totalmarks = info.getTotalmarks();
 
 
-                    char temp = marks.charAt(rollnoforcheck-1);
+                    char temp = marks.charAt((rollnoforcheck-1)*2);
                     String  finalmarksstring;
                     if(temp=='*'){
                         finalmarksstring = "100"+ "/"+totalmarks;
                     }else {
-                        finalmarksstring = ""+temp + marks.charAt(rollnoforcheck) + "/" + totalmarks;
+                        finalmarksstring = ""+temp + marks.charAt(rollnoforcheck*2-1) + "/" + totalmarks;
                     }
 
                     TableRow.LayoutParams textViewParam = new TableRow.LayoutParams(TableRow.LayoutParams.MATCH_PARENT, TableLayout.LayoutParams.MATCH_PARENT, 1.0f);
